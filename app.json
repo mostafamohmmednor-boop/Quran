@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "القرآن الكريم كامل - مشاري راشد",
+    "slug": "al-quran-mishary",
+    "version": "1.0.0",
+    "android": {
+      "package": "com.quran.misharyapp"
+    },
+    "plugins": [
+      [
+        "react-native-google-mobile-ads",
+        {
+          "androidAppId": "ca-app-pub-2212853504243497~8723338754"
+        }
+      ]
+    ]
+  }
+}
